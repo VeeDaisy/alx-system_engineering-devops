@@ -1,1 +1,1 @@
-shell script creates file
+scrpt that save current state of directory
