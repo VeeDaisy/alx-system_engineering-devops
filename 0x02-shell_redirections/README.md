@@ -1,1 +1,1 @@
-duplicates last line
+No more javascript
