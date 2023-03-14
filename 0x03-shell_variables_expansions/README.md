@@ -1,1 +1,1 @@
-local variable script
+global variable script
