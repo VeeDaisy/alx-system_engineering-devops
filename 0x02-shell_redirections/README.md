@@ -1,1 +1,1 @@
-scrpt that save current state of directory
+duplicates last line
