@@ -1,1 +1,1 @@
-shell script that adds the two numbers stored in the environment variables WATER and STIR
+script that displays the 10 newest files in the current directory.
